@@ -12,4 +12,4 @@
 
 ### Examples
 
-  Just edit and save files and see what happens! The source directory nams have meaning.
+  Just edit and save files and see what happens! The source directory names have meaning.
