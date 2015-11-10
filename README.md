@@ -6,7 +6,7 @@
 
   * Clone this project repo.
   * cd to this project.
-  * `npm install` to get babel-core and other dependencies.
+  * `npm install --only=dev` to get babel-core and other development dependencies.
   * Run Atom and open as a project folder.
   * Ensure that files are handled by `language-babel` grammar.
   * Ensure the setting `Allow Local Override` in the package is on.
