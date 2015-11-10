@@ -4,7 +4,7 @@
   "babelSourcePath":                  "Source Files/Transpile and Send to Lib Directory",
   "babelTranspilePath":               "lib",
   "createMap":                        false,
-  "createTargetDirectories":          false,
+  "createTargetDirectories":          true,
   "createTranspiledCode":             true,
   "disableWhenNoBabelrcFileInPath":   true,
   "suppressSourcePathMessages":       false,
