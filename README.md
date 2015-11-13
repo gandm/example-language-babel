@@ -14,3 +14,7 @@
 ### Examples
 
   Just edit and save files and see what happens! The source directory names have meaning.
+  
+![example](https://cloud.githubusercontent.com/assets/2313237/11145720/18bf0f52-8a00-11e5-82f0-3f474aeefcb7.gif)
+
+
